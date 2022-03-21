@@ -1,6 +1,7 @@
 # covid19_app
 
-A new Flutter project.
+<img width="419" alt="Screenshot 2022-03-21 at 10 00 38" src="https://user-images.githubusercontent.com/36797498/159230885-14e591df-9009-498f-92e1-327b6e8ff96f.png">
+
 
 ## Getting Started
 
